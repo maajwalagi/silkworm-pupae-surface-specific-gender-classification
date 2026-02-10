@@ -1,2 +1,4 @@
-# silkworm-pupae-surface-specific-gender-classification
-Code for surface-specific gender classification of silkworm pupae using deep learning.
+##  Code Availability
+This repository contains the source code supporting the manuscript:
+**Enhancing Silkworm Pupae Gender Classification via Surface-Specific Deep Learning**
+DOI : https://doi.org/10.5281/zenodo.18598859
